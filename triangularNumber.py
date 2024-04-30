@@ -1,7 +1,6 @@
 # Part 3 - Coding Exercise: Decoding a Message from a Text File
 # In this exercise, you will develop a function named decode(message_file). T
 # This function should read an encoded message from a .txt file and return its decoded version as a string.
-# Note that you can write your code using any language and IDE you want (Python is preferred if possible, but not mandatory).
 
 import pandas as pd
 
